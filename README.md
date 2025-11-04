@@ -5,8 +5,7 @@ Registration:100409
 CRS name:Artificial Intelligence
 Course name : Artificial Intelligence: Real-World Applications and implications
 School name:Jain vidyalaya IB World School
-Link for the bot:https://dialogflow.cloud.google.com/#/agent/campus-bot-oylv/integrations
-
+Link for the bot:https://saif2610.github.io/IDAI101-100409-mohammed-saif/
 CampusBot — Project Report
 
 Prepared by: Mohammed saif
