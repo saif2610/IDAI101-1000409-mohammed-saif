@@ -6,6 +6,8 @@ CRS name:Artificial Intelligence
 Course name : Artificial Intelligence: Real-World Applications and implications
 School name:Jain vidyalaya IB World School
 
+Campus visit bot  link:   https://saif2610.github.io/IDAI101-1000409-mohammed-saif/
+
 CAMPUS NAVIGATION CHATBOT – PROJECT DOCUMENTATION
 1. Project Overview
 
